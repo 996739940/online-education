@@ -1,0 +1,4 @@
+/**
+  * spark-submit --master yarn --deploy-mode client --driver-memory 1g --num-executors 1 --executor-cores 1 --executor-memory 1g
+  * --class com.atguigu.controller.BdlMemberController
+  */
